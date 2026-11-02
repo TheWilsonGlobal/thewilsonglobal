@@ -28,6 +28,6 @@ Senior Full-Stack & Applied AI Engineer building LLM guardrails, GraphRAG pipeli
 
 | | |
 |---|---|
-| **ClimateBigData** | Spark on Kubernetes analytics pipeline, 60x faster than the legacy Hadoop system. |
+| [**ClimateBigData**](https://github.com/TheWilsonGlobal/big-data-climate-change-spark-k8s) | Spark on Kubernetes analytics pipeline, 60x faster than the legacy Hadoop system. | ![Status](https://img.shields.io/badge/status-private-8a8a8a?style=flat) |
 | [**LedgerPulse**](https://github.com/TheWilsonGlobal/ledger-pulse-ai) | Double-entry ledger with reconciliation, AML heuristics, and a hash-chained audit trail. |
 | [**Blockchain Protocols & Security**](https://github.com/TheWilsonGlobal/damn-vulnerable-defi) | Real-yield staking, RAsset tokenization, and DeFi security audits. |
