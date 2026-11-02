@@ -18,8 +18,8 @@ Senior Full-Stack & Applied AI Engineer building LLM guardrails, GraphRAG pipeli
 | | |
 |---|---|
 | **Deworkers** | Distributed task orchestration with multi-connector notifications. |
-| [**Event-Driven E-Commerce**](https://github.com/TheWilsonGlobal/event-driven-ecommerce) | Distributed microservices with transactional outbox and polyglot storage. |
-| [**Domain-Driven Trading Engine**](https://github.com/TheWilsonGlobal/domain-driven-trading) | Low-latency Go trading core with FIFO matching and double-entry ledger. |
+| [**Microservices Ecommerce**](https://github.com/TheWilsonGlobal/event-driven-ecommerce) | Distributed microservices with transactional outbox and polyglot storage. |
+| [**Domain-Driven Design Trading**](https://github.com/TheWilsonGlobal/domain-driven-trading) | Low-latency Go trading core with FIFO matching and double-entry ledger. |
 | [**Everfit Coach Copilot**](https://github.com/TheWilsonGlobal/everfit-coach-copilot) | AI-assisted coaching platform prototype with coach-approved proposals. |
 | [**Bosun**](https://github.com/TheWilsonGlobal/bosun) | AI-assisted ship automation configurator with SCADA telemetry. |
 | [**Talent Screening**](https://github.com/TheWilsonGlobal/talent-screening) | Interview scoring and HR review tool with a polling scoring worker. |
