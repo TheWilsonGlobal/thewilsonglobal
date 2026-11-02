@@ -9,7 +9,7 @@ Senior Full-Stack & Applied AI Engineer building LLM guardrails, GraphRAG pipeli
 | | |
 |---|---|
 | [**KahnemanGuard**](https://github.com/TheWilsonGlobal/kahneman-guard) | Dual-process fast-slow LLM guardrail architecture. |
-| [**CongraphRAG**](https://www.npmjs.com/package/congraph-rag) | GraphRAG framework with 8 retrieval engines, built on CongraphDB and applied to Vietnam Civil Law (VN-legal). |
+| [**CongraphRAG**](https://www.npmjs.com/package/congraph-rag) | GraphRAG framework with 6 retrieval engines.  |
 | [**Nexus Kernel**](https://pypi.org/project/nexus-kernel) | Agentic guardrail SDK with sandboxed execution and hybrid retrieval. |
 | [**DAG Crew**](https://github.com/TheWilsonGlobal/dag-crew) | PM-led subagent team for Claude Code. |
 
@@ -17,7 +17,6 @@ Senior Full-Stack & Applied AI Engineer building LLM guardrails, GraphRAG pipeli
 
 | | |
 |---|---|
-| **Deworkers** | Distributed task orchestration with multi-connector notifications. |
 | [**Microservices Ecommerce**](https://github.com/TheWilsonGlobal/event-driven-ecommerce) | Distributed microservices with transactional outbox and polyglot storage. |
 | [**Domain-Driven Design Trading**](https://github.com/TheWilsonGlobal/domain-driven-trading) | Low-latency Go trading core with FIFO matching and double-entry ledger. |
 | [**Everfit Coach Copilot**](https://github.com/TheWilsonGlobal/everfit-coach-copilot) | AI-assisted coaching platform prototype with coach-approved proposals. |
